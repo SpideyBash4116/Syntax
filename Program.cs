@@ -7,6 +7,10 @@ class Program
     {
         string currentDirectory = Directory.GetCurrentDirectory();
 
+        Console.WriteLine("Syntax Terminal v1.0.0a-alpha Prototype Build");
+        Console.WriteLine("Copyright (c) 2026 SpideyBash4116. Syntax is rightfully owned and created by SpideyBash4116. All rights reserved.");
+        Console.WriteLine("Type 'help' for a list of commands.");
+
         while (true)
         {
             Console.Write($"{currentDirectory}> ");
