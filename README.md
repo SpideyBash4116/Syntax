@@ -25,6 +25,7 @@ To see a list of commands within the application, type `help`.
 | `echo <text>` | Print text to the console. |
 | `cd <path>` | Change the current directory. |
 | `dir` | List files and directories in the current path. |
+| `beep` | Creates a beep noise. (coming soon) |
 
 ## Technical Details
 
